@@ -1,13 +1,29 @@
-﻿  RAY_TRACER_V0_0_1.cpp
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\vec3.h(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\vec3.h(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
-  Generating code
-  2 of 178 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  RAY_TRACER_V0_0_1.vcxproj -> C:\Users\SHOP PC5\Google Drive\RAY_TRACER_PROJECT\RAY_TRACER_V0_0_1\x64\Release\RAY_TRACER_V0_0_1.exe
+﻿  stdafx.cpp
+  camera.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  hitable.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  hitable_list.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lambertian.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\hitable_list.cpp(9,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ray.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\lambertian.h(3,1): error C2504: 'material': base class undefined
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RAY_TRACER_V0_0_1.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\RAY_TRACER_V0_0_1.cpp(26,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\RAY_TRACER_V0_0_1.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\RAY_TRACER_V0_0_1.cpp(33,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  sphere.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\RAY_TRACER_V0_0_1.cpp(33,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vec3.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data

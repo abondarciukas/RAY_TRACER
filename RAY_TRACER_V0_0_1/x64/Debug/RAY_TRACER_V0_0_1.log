@@ -1,3 +1,9 @@
-﻿  RAY_TRACER_V0_0_1.cpp
-c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
-  RAY_TRACER_V0_0_1.vcxproj -> C:\Users\SHOP PC5\Google Drive\RAY_TRACER_PROJECT\RAY_TRACER_V0_0_1\x64\Debug\RAY_TRACER_V0_0_1.exe
+﻿  lambertian.cpp
+  ray.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\lambertian.h(3,1): error C2504: 'material': base class undefined
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vec3.cpp
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\SHOP PC5\Documents\Git\RAY_TRACER\RAY_TRACER_V0_0_1\vec3.h(128,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
