@@ -1,0 +1,2 @@
+﻿  RAY_TRACER_V0_0_1.cpp
+c:\users\shop pc5\google drive\ray_tracer_project\ray_tracer_v0_0_1\ray_tracer_v0_0_1\ray_tracer_v0_0_1.cpp(25): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
